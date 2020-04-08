@@ -1,5 +1,5 @@
-# WGAN---PyTorch-implementation<br>
-The notebook demonstrates Wasserstein GAN in PyTorch.<br>
+# WGAN---PyTorch-implementation (UNOFFICIAL)<br>
+This notebook demonstrates Wasserstein GAN in PyTorch.<br>
 
 Paper: https://arxiv.org/abs/1701.07875<br>
 
